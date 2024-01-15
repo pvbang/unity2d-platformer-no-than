@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 5789e25dd5381b446b0f77d5d2fdb438
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 432
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2c5f6869e2f614faead36be29bd227
+      internalID: 1400314791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 498
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525367b2984734f469ca43395462548c
+      internalID: -947226493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 444
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fffbf565c1d695499172f0cf0a1acfe
+      internalID: -1331745109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 421
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab346540f5b3524ba47db285a167803
+      internalID: 607112457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 434
+        width: 115
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39b6e9202350dd48b15caaf91f8bf24
+      internalID: 22836141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 438
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9408a5e1327ff468f626dba1dde6d0
+      internalID: 800377240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 420
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c0fa900aa223469128838c04599ef
+      internalID: 1909991595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 420
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3bf483c8840b4479eacda7b93d8a2a
+      internalID: 934568925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 426
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b080a20c0c0008841bd163e2ed48daee
+      internalID: -428353580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d3a8e7ac10c25409d780e34c4720e0
+      internalID: -1686847103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 330
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9281ba45f17fa047a20dbeae4398422
+      internalID: 503746481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 336
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441bf27c97011a459092e92a9197bf8
+      internalID: -1735889281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 344
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f589e39f73ed7d4aadede7503363d7d
+      internalID: -19840826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cfc501a4383b04e96ab4a4fcfef5ca
+      internalID: -399216897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 342
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b370daf3f05184e958acf6c770f744
+      internalID: -1567963419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 336
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6822f27c49ac33246a7875b6c7877d09
+      internalID: -429180456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 330
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df63f10d617245468c9fbe450c31989
+      internalID: -1828322728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 341
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47838b0410f3f6d4c9e2529794bff34f
+      internalID: 1147126096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 336
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b705f97135630d741a5e89e57ccef78a
+      internalID: 1362828542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 324
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f2dc73deb20da42b39f3404d389737
+      internalID: -518960412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 210
+        width: 120
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91912da64ed8d6e429349b5d8b7f2d81
+      internalID: 1614353803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 222
+        width: 139
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb95242213af01044adf0417fc805d6e
+      internalID: 302819286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 207
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac0c0531854bca45b5da34d2e435d7c
+      internalID: -653637596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3e466a33d090846b9dbc72b0d43421
+      internalID: -789911008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 192
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227131326a092674297f4dcf6b6a81aa
+      internalID: 2105616464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 10
+        width: 420
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0d7fd11fc74a942a065c39de5365b0
+      internalID: 1154202297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2400a26d939c740b9295af8cea09c2
+      internalID: 1309306980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 54
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2411faf6efc4504b84ad30198be79ec
+      internalID: 504774266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3a29cd981df624e849693d1b78a45c
+      internalID: 335461103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103a305a5e527c043986d41a704728ee
+      internalID: -1986078312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 27
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80384f52ba7a447ad2b5aa19bf81d0
+      internalID: -862658649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22957d01160188147add612d623f8d3a
+      internalID: 5076222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd655c960d1992a4889bfa963d97869f
+      internalID: 1168242599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 6
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d0ef3b3f567284aac60c59b57fbe93
+      internalID: -1791596245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2807a987cdc37c24eb4d15ac3a58c20a
+      internalID: -1884902701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578bdb6e1bc4767409a114c57f8dba2f
+      internalID: -944135961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca06dac7b8784e849835bcef8f6afbfb
+      internalID: -6622430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c844c0f776eabf34ba792171e5ad4b86
+      internalID: -367357094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe6565c5b0d77545af8766c35e45e6d
+      internalID: 1928180348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7865d03445d9b0c4abff64beac2a8c6b
+      internalID: -1016632593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_0: 1400314791
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_1: -947226493
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_10: 503746481
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_11: -1735889281
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_12: -19840826
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_13: -399216897
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_14: -1567963419
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_15: -429180456
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_16: -1828322728
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_17: 1147126096
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_18: 1362828542
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_19: -518960412
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_2: -1331745109
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_20: 1614353803
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_21: 302819286
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_22: -653637596
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_23: -789911008
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_24: 2105616464
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_25: 1154202297
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_26: 1309306980
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_27: 504774266
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_28: 335461103
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_29: -1986078312
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_3: 607112457
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_30: -862658649
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_31: 5076222
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_32: 1168242599
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_33: -1791596245
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_34: -1884902701
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_35: -944135961
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_36: -6622430
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_37: -367357094
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_38: 1928180348
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_39: -1016632593
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_4: 22836141
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_5: 800377240
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_6: 1909991595
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_7: 934568925
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_8: -428353580
+      burning-coal-grill-barbecue-cartoon-illustration-set-pile-hot-red-glowing-charcoal-fireplaces-isolated-white-background-fuel-fossil-combustion-concept_74855-23972-removebg-preview_9: -1686847103
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

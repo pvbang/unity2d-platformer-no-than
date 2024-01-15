@@ -1,0 +1,703 @@
+fileFormatVersion: 2
+guid: 5f96c76e626eb0444851c9d6f08ac600
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 486
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f1d4f492292f40916b9e73539882e
+      internalID: -2077383836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 426
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e12707b72845c4f8c0aadfa6eff58e
+      internalID: 138054681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 429
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b13f028128ad24eba526c97f3e015c
+      internalID: 960672566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 429
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aff762b06f27940b884e221182d842
+      internalID: -822585227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 420
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db4343fd90b3324db17f9b77336080a
+      internalID: -1224894903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 457
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ac10d15d6a09e24faacb0d08be98682
+      internalID: -271614575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 427
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ffb56466ecf94f8da7e96df714dc7
+      internalID: -1596082610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 426
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a871aa3b0d5b24e8ab047892062ad0
+      internalID: 498735450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 426
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df45db9b37f6144d8c2971e31d7a6e0
+      internalID: 1275682236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 414
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4bffc95b4feb348858fcd6fbff35bd
+      internalID: 2132779746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 436
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcf99606d54a344aa04a9454da8e02
+      internalID: -1317978238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 428
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da7e9bec0277bc4ab3168d431c9ed12
+      internalID: 2098526679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 431
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0013a5c48fde040a9eb0e418ee26fa
+      internalID: 1785660185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 426
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb24a2c7611246542a7c35f8db11d3b0
+      internalID: 483498678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 336
+        width: 326
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4362c4e770cbd247a510033ff9c733e
+      internalID: 1085953117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 324
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48febf2645fca4ca121de2023d70a7
+      internalID: -788570232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 263
+        width: 134
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426529e80a9bac64188ae6d65c139da8
+      internalID: 803505764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 263
+        width: 150
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226d556c0adea94aac114b78a8904d2
+      internalID: -690219420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 126
+        width: 117
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94916fd9f4a617f46bac2244e87e2fce
+      internalID: -20417478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 168
+        width: 320
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4b9351fa0d9a947b87929583a4671a
+      internalID: 61422121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 36
+        width: 301
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37215673501f2744bb85e9cbd1b3f25e
+      internalID: -1746777152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 105
+        width: 184
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1508880cc5f14d34f98927e4ac30f6b5
+      internalID: 990502240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 18
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3988533853da9d1448b84fadb9211880
+      internalID: -1602110371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 12
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880539f25f7a3440aa3fc5585a4d24e
+      internalID: -902025816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-cap-collection_23-2147987683__1_-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 17
+        width: 85
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bbfe1715b08fd409e3b4b0052c2f79
+      internalID: 935121464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      snow-cap-collection_23-2147987683__1_-removebg-preview_0: -2077383836
+      snow-cap-collection_23-2147987683__1_-removebg-preview_1: 138054681
+      snow-cap-collection_23-2147987683__1_-removebg-preview_10: -1317978238
+      snow-cap-collection_23-2147987683__1_-removebg-preview_11: 2098526679
+      snow-cap-collection_23-2147987683__1_-removebg-preview_12: 1785660185
+      snow-cap-collection_23-2147987683__1_-removebg-preview_13: 483498678
+      snow-cap-collection_23-2147987683__1_-removebg-preview_14: 1085953117
+      snow-cap-collection_23-2147987683__1_-removebg-preview_15: -788570232
+      snow-cap-collection_23-2147987683__1_-removebg-preview_16: 803505764
+      snow-cap-collection_23-2147987683__1_-removebg-preview_17: -690219420
+      snow-cap-collection_23-2147987683__1_-removebg-preview_18: -20417478
+      snow-cap-collection_23-2147987683__1_-removebg-preview_19: 61422121
+      snow-cap-collection_23-2147987683__1_-removebg-preview_2: 960672566
+      snow-cap-collection_23-2147987683__1_-removebg-preview_20: -1746777152
+      snow-cap-collection_23-2147987683__1_-removebg-preview_21: 990502240
+      snow-cap-collection_23-2147987683__1_-removebg-preview_22: -1602110371
+      snow-cap-collection_23-2147987683__1_-removebg-preview_23: -902025816
+      snow-cap-collection_23-2147987683__1_-removebg-preview_24: 935121464
+      snow-cap-collection_23-2147987683__1_-removebg-preview_3: -822585227
+      snow-cap-collection_23-2147987683__1_-removebg-preview_4: -1224894903
+      snow-cap-collection_23-2147987683__1_-removebg-preview_5: -271614575
+      snow-cap-collection_23-2147987683__1_-removebg-preview_6: -1596082610
+      snow-cap-collection_23-2147987683__1_-removebg-preview_7: 498735450
+      snow-cap-collection_23-2147987683__1_-removebg-preview_8: 1275682236
+      snow-cap-collection_23-2147987683__1_-removebg-preview_9: 2132779746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

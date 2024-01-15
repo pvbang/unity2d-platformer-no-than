@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerSkill
+  - EnemySkill
+  - Skill
+  - PlayerDistanceSkill
+  - Ground
+  - Object
+  - DistanceSkills
+  - NPC
+  - Lost
+  - Cloud
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Objects
+  - Test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1792756601
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Top
+    uniqueID: 2754583105
+    locked: 0
+  - name: AboveAll
+    uniqueID: 1923607923
+    locked: 0

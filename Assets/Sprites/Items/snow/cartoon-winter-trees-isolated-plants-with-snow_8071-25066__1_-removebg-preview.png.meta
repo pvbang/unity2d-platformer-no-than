@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 941dedb333d243d4a898a1f08021afe3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de6f70a05b9569439856587dc0a50ac
+      internalID: -1204016110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 168
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e2ee03fe05f2045a9260abf7c171dd
+      internalID: 1766915823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 162
+        width: 98
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86e5e7508aeed4e96e87e71d15822f
+      internalID: -1064938984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 162
+        width: 72
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac831c0fc9d1e04449222f6e293f76d6
+      internalID: -1453666248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 169
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78fc5497cff04f449aeb223fa6ab04a
+      internalID: -754606925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 162
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac958871b29b92a4b8b33b415edda004
+      internalID: 1472807459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 161
+        width: 76
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f107bf1031244d43a56fc12d2418cb5
+      internalID: 2040580604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 162
+        width: 104
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f1a4ac4620e064eb88089400b07494
+      internalID: 831707933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0177f3de6b004191fe7bd3be93387
+      internalID: -1743633505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 21
+        width: 51
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f9157631da8146a3a29ae71c0ef60
+      internalID: 727903872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 20
+        width: 94
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e317c1d5dafdb419c18dd262548b06
+      internalID: 857163439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 24
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d23ecd49cce7a4f843f9a73cb9ab54
+      internalID: -1251218064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04cb499b76798594882804207f69253e
+      internalID: -1660633056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 23
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a73624a43ef0545903790688ab1a17
+      internalID: -529059904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 18
+        width: 60
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000cf8e7b656b51479ca1b3b702bd8ae
+      internalID: -1174508001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217a5ce6c63ca9043adc2a74e41f1e94
+      internalID: -1977171129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ea9923b5273d4419860cc18412362c
+      internalID: -2122132552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462d95bc001b8d349b60519cf071af7b
+      internalID: -1793494762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_0: -1204016110
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_1: 1766915823
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_10: 857163439
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_11: -1251218064
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_12: -1660633056
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_13: -529059904
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_14: -1174508001
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_15: -1977171129
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_16: -2122132552
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_17: -1793494762
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_2: -1064938984
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_3: -1453666248
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_4: -754606925
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_5: 1472807459
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_6: 2040580604
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_7: 831707933
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_8: -1743633505
+      cartoon-winter-trees-isolated-plants-with-snow_8071-25066__1_-removebg-preview_9: 727903872
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

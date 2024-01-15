@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: efc3526f83ca05c41adc3807a38ebea3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 435
+        width: 451
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904783eecc37d6a44b84eb6382444acb
+      internalID: -1435307467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 222
+        width: 227
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddb3e397bd928c4f82d15adae3de4ea
+      internalID: 1065954166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 333
+        width: 140
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcb29dacc175104e9ac0bc5b29a63a2
+      internalID: 416863394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 342
+        width: 298
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f035b4bfb9b3428ebf0d6c626df67
+      internalID: 1252209240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 261
+        width: 95
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7b97e0a2378bf4c857effd3c9376bf
+      internalID: -1495453894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 228
+        width: 104
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ef2c3e66f9d84fbce640b9876a6e2
+      internalID: -3509959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 260
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c3771e1ae603a4181f91df10a3d462
+      internalID: 1809565306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d9266e741bd0a4d9f13be2fd1b07c4
+      internalID: -25087789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf362ea9f31ec54192bef8bd75b4879
+      internalID: 5961890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 189
+        width: 247
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d46ae0befe92354b87656935bbfa824
+      internalID: -1116028876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 78
+        width: 240
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d128ef0b5637fe4ba2165e1d414977a
+      internalID: -458263759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 138
+        width: 188
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68790b1b86e0d394d93290b6e9ec22a3
+      internalID: -947664823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ae69bc34c8bc429b3755a36dc935d
+      internalID: -394187546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 54
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fab53ff27132bf4cab932c922933bd0
+      internalID: 2109953239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 84
+        width: 192
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846779c2a0327274d92eb50b3b1e3ebd
+      internalID: -1809278904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 21
+        width: 126
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68aa8a0cc73d9b845b36550d8b12e02c
+      internalID: 1463079051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: snow-capes-piles-winter-set_1284-20908-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 18
+        width: 297
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a794a78cca8137a459102af191eaa219
+      internalID: -512004114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_0: -1435307467
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_1: 1065954166
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_10: -458263759
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_11: -947664823
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_12: -394187546
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_13: 2109953239
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_14: -1809278904
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_15: 1463079051
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_16: -512004114
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_2: 416863394
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_3: 1252209240
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_4: -1495453894
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_5: -3509959
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_6: 1809565306
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_7: -25087789
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_8: 5961890
+      snow-capes-piles-winter-set_1284-20908-removebg-preview_9: -1116028876
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

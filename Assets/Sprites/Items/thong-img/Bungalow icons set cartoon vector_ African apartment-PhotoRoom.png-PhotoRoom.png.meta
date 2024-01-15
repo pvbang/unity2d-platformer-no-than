@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: d2f412ee55d179a4c95f4d081fbc2b66
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 400
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39781d2295c69e418b4e9f90db808cd
+      internalID: 1032881597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 397
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f037743f719bf24a940286e05cac354
+      internalID: -990590723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 396
+        width: 65
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501632d94caabad45a4ede9d47917de0
+      internalID: -1663915680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 397
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40faf8f558405a34c89672d095898384
+      internalID: 446998500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 396
+        width: 75
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fb8c87e4731aa4eae01bb86ab8c6ab
+      internalID: 1305011363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 396
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec1f3f8d095a9849b5fe479168db6a2
+      internalID: 1431229256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 400
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b9bffad2557db41a4c1bed092bbafa
+      internalID: 216255602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 400
+        width: 99
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a25f33aeed7a148b15218af23dc444
+      internalID: -183571697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 396
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7119c17923f586429e0a895f2811808
+      internalID: -764409681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 396
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad698339bdf984c9ae374a57c0bb7a
+      internalID: 419987575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810b0595a1fcd604190d9103f9c50c21
+      internalID: -772555728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 264
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71e25cd9341ec74ca32e5186d031525
+      internalID: -664055899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 266
+        width: 77
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eab00d272453094fb7c7dc198a21005
+      internalID: -321201081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 266
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a2d3e87a99814196b00501ac6903f
+      internalID: 64146468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7eafec02fd80c49a762f6a020f1e76
+      internalID: 263141314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8be7badb88fc442a21443ecfc57476
+      internalID: 117114071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 266
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860ce4bb11d2a474188736d58b7eb170
+      internalID: 1245033740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 264
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9519137a7afc9a408bbdbe52c1eeb97
+      internalID: -1567830972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 266
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebe0ccab0841f7499840ecc3d832ae7
+      internalID: 1892839047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 264
+        width: 81
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670650afaf67bf847a0bf4be73d34c91
+      internalID: -528483136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 264
+        width: 85
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f438856bb5600e043b64e4df6e4fd346
+      internalID: -882555991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 240
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e49eff1615354fae5b48bd8360424
+      internalID: 523570244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 138
+        width: 82
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9437d79ce6ee83e4c9c95b377e791d85
+      internalID: -822898240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 140
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e41c005f74d114694bd044a6656809
+      internalID: 1970019866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 141
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46712d03bb2e8d4cbd00f924152b4c4
+      internalID: 1774320968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 138
+        width: 101
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bea53a11cb1f24ba713edafd448a32
+      internalID: -952873379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 139
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e08f6b54e45964789a5ccfff829b31
+      internalID: -1467487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 138
+        width: 85
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d25f562592c00409b6464185cac871
+      internalID: -1247523476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 138
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873bfd41ba8428f42be18ce442039435
+      internalID: -1858134715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 138
+        width: 76
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96411ff284bc60a4cb187c560c12b7c8
+      internalID: 1249127233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 90
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa45dc7493bc6ac4fac666abbf9fef60
+      internalID: -273606197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 6
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7a03f9a6c26a048a12607869c107aa
+      internalID: 1529319791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7efee957e581ff48bdc732380b898e7
+      internalID: 1642523406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 10
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b512279a040e4f4280da91c13d9ef11
+      internalID: 1743315701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 6
+        width: 84
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca923b5e6e7856947abe0ef8861b6e16
+      internalID: 1218964313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 6
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541aea9b64c7d0549b58e33b8a761cd6
+      internalID: -5459566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 9
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8522fdc2f6cfcd4fa52df795f1bfdc1
+      internalID: 1363271947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 6
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f4282ee69289d4ea9cbc6e117f62b6
+      internalID: -1319876373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 8
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c7baead531e64abc22ccbccc0eb9f
+      internalID: 689573024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc19f22cdcbc564faa7b2287c019c98
+      internalID: -1630056870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 6
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8512b5ad54bcc43bf0a7192d9d4439
+      internalID: 1079264827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_0: 1032881597
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_1: -990590723
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_10: -772555728
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_11: -664055899
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_12: -321201081
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_13: 64146468
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_14: 263141314
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_15: 117114071
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_16: 1245033740
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_17: -1567830972
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_18: 1892839047
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_19: -528483136
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_2: -1663915680
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_20: -882555991
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_21: 523570244
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_22: -822898240
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_23: 1970019866
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_24: 1774320968
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_25: -952873379
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_26: -1467487
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_27: -1247523476
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_28: -1858134715
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_29: 1249127233
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_3: 446998500
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_30: -273606197
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_31: 1529319791
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_32: 1642523406
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_33: 1743315701
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_34: 1218964313
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_35: -5459566
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_36: 1363271947
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_37: -1319876373
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_38: 689573024
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_39: -1630056870
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_4: 1305011363
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_40: 1079264827
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_5: 1431229256
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_6: 216255602
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_7: -183571697
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_8: -764409681
+      Bungalow icons set cartoon vector_ African apartment-PhotoRoom.png-PhotoRoom_9: 419987575
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

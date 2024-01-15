@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: d6b38abb8d2736c46b383bb3a3674a3d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 276
+        width: 150
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b33f5f2d70733428136fb7442b4a2b
+      internalID: -1116703158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 253
+        width: 212
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a03ea01f801bac4392c34866d579844
+      internalID: 593223451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 252
+        width: 158
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896ce62d6dd00642b36500d2add590b
+      internalID: 60429194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 372
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220927b795e67a428fe1c7fc13b0ad3
+      internalID: 1379337149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e81dd4f01b2c2744af7bcb783a1bc9c
+      internalID: 2055336921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 252
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d5a2d9d6eafa54585ec47e3338dd54
+      internalID: -904579188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0451183223e244d95e0116059d22f6
+      internalID: -1642352459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 126
+        width: 144
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103697943440c0e44a3cd515b568719e
+      internalID: 4619249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5831569bb17044a9747b16769f53b9
+      internalID: -1737263460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 131
+        width: 170
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d372bfedb4f51654e8fda259164d6366
+      internalID: 923223989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006a6f513721bf644ad90061134eb1f3
+      internalID: -2023416858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 132
+        width: 127
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843662b7965d8f54496d87892fc4955c
+      internalID: -1519327113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 72
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a7d20a981918a4c916ddda1713671e
+      internalID: -470503020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 138
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08224d07f67bd94185d2b598f21a833
+      internalID: 1898919485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 84
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf2d8fb6309064a8b442b5a9eb9f8a
+      internalID: -247394159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 12
+        width: 144
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce59b01888c95d4195a4a93c2ba4a44
+      internalID: 914835366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-burning-charcoal-flat-set_74855-15509-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 17
+        width: 168
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ad4df2f68ba244b0a40998323cf61
+      internalID: 1384987616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_0: -1116703158
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_1: 593223451
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_10: -2023416858
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_11: -1519327113
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_12: -470503020
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_13: 1898919485
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_14: -247394159
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_15: 914835366
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_16: 1384987616
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_2: 60429194
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_3: 1379337149
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_4: 2055336921
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_5: -904579188
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_6: -1642352459
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_7: 4619249
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_8: -1737263460
+      red-burning-charcoal-flat-set_74855-15509-removebg-preview_9: 923223989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,417 @@
+fileFormatVersion: 2
+guid: a502c0b2fda67334ca55a2fc2ab37908
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562829c3f3eee9940a6e827f3f1906af
+      internalID: -1476951651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 630
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2155214488007af478617a4790f1741c
+      internalID: 138223056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 630
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f31a67a7b14724f8368cd541d84d58
+      internalID: -1663618757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 630
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55edb7172d0ce074d9e7a9be41e5e7b1
+      internalID: -603460890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 330
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481d64c22297f9940a3efbb64ab38e3d
+      internalID: -969292670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 330
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6183726a3f93243408507dcb22b470d6
+      internalID: 671289303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 330
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac56aed6d601e24fbb9cacdfcad1143
+      internalID: 1965310838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 330
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dee82520b15d0488a9b37559af99e9
+      internalID: -545693197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2654774839394983915f36ffaec47
+      internalID: 1155719597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368b63e8ba67904899c8966625d3f2f
+      internalID: -399483891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 30
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c27af5517b380f4f8679b905045d099
+      internalID: -1889732571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 30
+        width: 320
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c17a20cf1ec35a4698cc3efc0e763d6
+      internalID: -1734312435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_0: -1476951651
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_1: 138223056
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_10: -1889732571
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_11: -1734312435
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_2: -1663618757
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_3: -603460890
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_4: -969292670
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_5: 671289303
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_6: 1965310838
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_7: -545693197
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_8: 1155719597
+      Set_of_rock_stones_and_boulders_in_cartoon_style_generated-PhotoRoom.png-PhotoRoom_9: -399483891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,813 @@
+fileFormatVersion: 2
+guid: 0d7b497cafcc2f0408213c799f9dd02f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8fb3e262cd6254483e28466370a167
+      internalID: -1945907694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 396
+        width: 222
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9206975c66a0354b83c965b5e35a856
+      internalID: -617305300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 384
+        width: 228
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de57bb2b7c5f034f8bec2a077c8185b
+      internalID: 1789920830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 321
+        width: 270
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2f2311921c5e540b9566d49f47dbf4
+      internalID: -1855280274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 384
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949096fb0290c974eb8e49f5ec451ba4
+      internalID: -2002181331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 378
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85dd89c702aba249b270b583338a74c
+      internalID: 62338631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 300
+        width: 95
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21913a2783abed4ba70fa500b07a305
+      internalID: 1229428087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 366
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5beda2c599c99bf4d8f90f1d0a224268
+      internalID: -2013721631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 366
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c157afc344c174696e6cb6df79d97a
+      internalID: -1667761623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 312
+        width: 95
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d2df698ce4964392adc71c57cc435
+      internalID: -939007484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 342
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90dfc28840fbc94592a8f8cb7965b0e
+      internalID: 812828723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 246
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7eb58eba721c45a028c6b37853b3e
+      internalID: -191279059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 306
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70e78166a8c227418f41139a858b7df
+      internalID: -1876214274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 297
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0bba8827ad97d439e9aa36406e8a1a
+      internalID: 915586029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 294
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1676f668a9e26f4c84513d7d66d50cb
+      internalID: -821368138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 277
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db8aa5374865054295f29674cd8a3a8
+      internalID: 1842556798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 252
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f7ed5c74eaf9a4ebba9d922ee79874
+      internalID: 1071100332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ea3a3d46a5d746b96d6dc11fa27ad
+      internalID: -381601741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 228
+        width: 252
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5316fa668e118da48b7f3ac1944ca753
+      internalID: -1951547440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 252
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7f034b647f2243a8e9f3276a84f15
+      internalID: 1149210730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 240
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df00f1f6e5b24dd4ca7e7454f6f1ce18
+      internalID: -142644764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 42
+        width: 474
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac439752d71b98479f29c68202c7b59
+      internalID: 141009017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 222
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd58dfb97c452f4dbf5ab298cbd6f74
+      internalID: 1915513355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af059c03700fff043b9dda374a243710
+      internalID: -1179528258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 222
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e758703ecc98ca14586b564420eb00ab
+      internalID: 216347769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 260
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c113ddce65d4e648b63927979a55381
+      internalID: 1058111048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 97
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d094188a20ac24aaa255dfe0bd97c4
+      internalID: -79128298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077325e75ce81f84aab364a649db1fdc
+      internalID: 1089635851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d822f3ab3721845a4e2bdedc144868
+      internalID: 497778144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8913323e2526354f806693c659c09a6
+      internalID: 1729303532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_0: -1945907694
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_1: -617305300
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_10: 812828723
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_11: -191279059
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_12: -1876214274
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_13: 915586029
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_14: -821368138
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_15: 1842556798
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_16: 1071100332
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_17: -381601741
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_18: -1951547440
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_19: 1149210730
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_2: 1789920830
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_20: -142644764
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_21: 141009017
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_22: 1915513355
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_23: -1179528258
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_24: 216347769
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_25: 1058111048
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_26: -79128298
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_27: 1089635851
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_28: 497778144
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_29: 1729303532
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_3: -1855280274
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_4: -2002181331
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_5: 62338631
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_6: 1229428087
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_7: -2013721631
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_8: -1667761623
+      vector-icicles-snowcap-elements-transparent-background-snow-effects-vector-collection_95169-2492-removebg-preview_9: -939007484
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

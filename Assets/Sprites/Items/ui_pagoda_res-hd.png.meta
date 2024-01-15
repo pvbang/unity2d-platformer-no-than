@@ -1,0 +1,1011 @@
+fileFormatVersion: 2
+guid: 7b1868f047fe8644196ef658caf49953
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 505
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b4e75779b53b41b2935392e72b0c5
+      internalID: 64292167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 127
+        width: 605
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8862c5e2e8775408a9d2d78b0061aa
+      internalID: 1759306236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_2
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 229
+        width: 289
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594c7494847e1a349a9974e3973b88c4
+      internalID: 1052311237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_3
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 228
+        width: 290
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9543ab9857ba6841a7a52ce1623907d
+      internalID: -1267379721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 418
+        width: 270
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17cf9968af4e1e488c712f8e3143730
+      internalID: -673922407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febf7e09c0436314ebd18b3bfa681028
+      internalID: 208877846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585d8adc5976c3c49b4c4bc9831e15b7
+      internalID: 330364129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_7
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 270
+        width: 216
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2512512e1f0b90444a00dfd69297574a
+      internalID: 428210006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_8
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 372
+        width: 237
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce253d2e5e067d54e974501de9f31d59
+      internalID: 2123936897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_9
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86561b9fc1136bb4f8a59c0205b95c8b
+      internalID: -452789601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_10
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 385
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536877084b211704bb9491e2be1c86c9
+      internalID: 1452810585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_11
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 278
+        width: 217
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05101036ec12a6b41ada0b1f26605f14
+      internalID: -2093332135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_12
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 306
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c025cf7497c08d43813e0b31166b15d
+      internalID: -1116129029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 270
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f0871d8d0a374c96394e6a3fed503
+      internalID: -997418365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_14
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 190
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb150ef86d1e814b83d8386ef8d1286
+      internalID: -693099031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_15
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 164
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81867666fed86749926ec26d7a745e6
+      internalID: 268726591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_16
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 175
+        width: 43
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5202def071e6bee478e76cc99afa0515
+      internalID: -181436148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_17
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 264
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05310beb1481ffc40996c2e0508ae7f4
+      internalID: -1679885012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 252
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2712a3becef296f49ac48b25ffb90d77
+      internalID: 1869942244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 224
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a78be589219cc54182bcf11513edbca
+      internalID: -419500857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_20
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 223
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164698357ead224cabbfb2fed641054
+      internalID: 2111049610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 223
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b1d0ecf2dae174b84cd2947668899f
+      internalID: -515126082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_22
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8778479617a6b747998f0fc29ece5b0
+      internalID: -1617998280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_23
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 222
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf880eaec80a4cf4091ebda1998f2a80
+      internalID: -1471945406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_24
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 129
+        width: 219
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6338bd6274f98468c44014631cbe3e
+      internalID: -178631792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_25
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 130
+        width: 321
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b9030ca56ba704d8bb6fc5fc9b4403
+      internalID: 1354433840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_26
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 18
+        width: 282
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dde2aa61a426fd48bf188aaa295038f
+      internalID: -1076237374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_27
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 39
+        width: 76
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed219f5b752458e44b0df20cfb138d9e
+      internalID: -393831702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 121
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675aea90acf4a4448814fdf61cd5ca26
+      internalID: -1408342787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_29
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 108
+        width: 123
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1fc69fa69a884409cb6e6e3ab0a4a5
+      internalID: 791171438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 456
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c914c45a34bc47b96b99f055b5bb4
+      internalID: 1185802661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 32
+        width: 396
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8afcc0e757a249898d4396aec28d4
+      internalID: 894144616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_32
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 54
+        width: 276
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c28f051db04248b8eb7a3f61eeba1
+      internalID: -705917192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_33
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 38
+        width: 43
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1fb4833810250449d5bf950d329cad
+      internalID: -1894832907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_34
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 50
+        width: 125
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c34c34e415d104585a2efb16b20f37
+      internalID: -1263033046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_35
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 132
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261e326cd12a1cb4195501eb408c9a64
+      internalID: 2135055526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_36
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 30
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ef25e2ab965fb47842c4a0a6ebcb4e
+      internalID: -1120313155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76583f26c1be556419018805051de8e4
+      internalID: 1691017266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui_pagoda_res-hd_38
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e972639556991374a9c5b9626f6edc5f
+      internalID: -817246193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ui_pagoda_res-hd_0: 64292167
+      ui_pagoda_res-hd_1: 1759306236
+      ui_pagoda_res-hd_10: 1452810585
+      ui_pagoda_res-hd_11: -2093332135
+      ui_pagoda_res-hd_12: -1116129029
+      ui_pagoda_res-hd_13: -997418365
+      ui_pagoda_res-hd_14: -693099031
+      ui_pagoda_res-hd_15: 268726591
+      ui_pagoda_res-hd_16: -181436148
+      ui_pagoda_res-hd_17: -1679885012
+      ui_pagoda_res-hd_18: 1869942244
+      ui_pagoda_res-hd_19: -419500857
+      ui_pagoda_res-hd_2: 1052311237
+      ui_pagoda_res-hd_20: 2111049610
+      ui_pagoda_res-hd_21: -515126082
+      ui_pagoda_res-hd_22: -1617998280
+      ui_pagoda_res-hd_23: -1471945406
+      ui_pagoda_res-hd_24: -178631792
+      ui_pagoda_res-hd_25: 1354433840
+      ui_pagoda_res-hd_26: -1076237374
+      ui_pagoda_res-hd_27: -393831702
+      ui_pagoda_res-hd_28: -1408342787
+      ui_pagoda_res-hd_29: 791171438
+      ui_pagoda_res-hd_3: -1267379721
+      ui_pagoda_res-hd_30: 1185802661
+      ui_pagoda_res-hd_31: 894144616
+      ui_pagoda_res-hd_32: -705917192
+      ui_pagoda_res-hd_33: -1894832907
+      ui_pagoda_res-hd_34: -1263033046
+      ui_pagoda_res-hd_35: 2135055526
+      ui_pagoda_res-hd_36: -1120313155
+      ui_pagoda_res-hd_37: 1691017266
+      ui_pagoda_res-hd_38: -817246193
+      ui_pagoda_res-hd_4: -673922407
+      ui_pagoda_res-hd_5: 208877846
+      ui_pagoda_res-hd_6: 330364129
+      ui_pagoda_res-hd_7: 428210006
+      ui_pagoda_res-hd_8: 2123936897
+      ui_pagoda_res-hd_9: -452789601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

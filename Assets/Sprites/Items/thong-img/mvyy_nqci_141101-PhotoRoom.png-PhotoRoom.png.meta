@@ -1,0 +1,1143 @@
+fileFormatVersion: 2
+guid: cc6a55d5951c1834da780106ebecf5f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 666
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707df6965d3a77043b6dfdedb9c2b3d7
+      internalID: 660948058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 493
+        width: 168
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6c9313d602cc647b1d8dc03165e2c1
+      internalID: -1973599442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 492
+        width: 128
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6d3ce66bfa36041b3a66d8669549ab
+      internalID: 754525053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 492
+        width: 117
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a575aa93ac440d4ba48bba150492af7
+      internalID: -1779003338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 493
+        width: 132
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59497f7ed86aa254b8a5eafd9972edf1
+      internalID: -188729310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 523
+        width: 120
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4082f43f552fa4fa10e14c75f3aaf0
+      internalID: 683888808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 522
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa4384d038380c47ace28d76d7e7dfe
+      internalID: -2063052694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 524
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221c4d25ef2224944bac2c4436a6e678
+      internalID: 1247195555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 522
+        width: 127
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e019c8c08901b014bbb818f23dd09da4
+      internalID: 1038433370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 521
+        width: 162
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689e369bf8e2d54478d22048a0b4d4eb
+      internalID: -541259064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 509
+        width: 158
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6314e2f4308a174083f819a3bf24e99
+      internalID: -470341604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 354
+        width: 147
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a60837eaf87ed4d98912953b2348c8
+      internalID: -2107686028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 356
+        width: 127
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681bd1f7d1f8bf04d86bbaa49dd69589
+      internalID: 1146762667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 353
+        width: 151
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0780ee453c95914cb3f5c00bb236923
+      internalID: 655901870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 348
+        width: 104
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7c832694f716438c146cfe1aa0bc5
+      internalID: 852946001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 354
+        width: 119
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc37ca0f8c2734f46bb1e801ae8a9d19
+      internalID: 287540195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 355
+        width: 104
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb6abcb50fdfe4597f16271ee596d6
+      internalID: 1582584851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 354
+        width: 127
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3076bb4b6d94b8143bd68dc87a3d1528
+      internalID: 144625553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 354
+        width: 124
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74782d94d7c98194293381a57deac613
+      internalID: -1251319461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_19
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 348
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d592351bde43d7741bee9cdf92cb0bc8
+      internalID: 1988737112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 194
+        width: 79
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90070e473e3e8f146b82cd266979c787
+      internalID: -108244194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 91
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8d82afa067ed74080ed8a3da3c1c47
+      internalID: -561634189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_22
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 194
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed398b358484e12459d857c9d25ff94f
+      internalID: 1695152746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_23
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 192
+        width: 113
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256012dfdb55b2541ba6b3974b0af9dd
+      internalID: 1709356646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 180
+        width: 83
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b86090208ace74eb92aa38af3d121a
+      internalID: -96080289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 178
+        width: 107
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6b689802991ab4794141239644e44a
+      internalID: 172970133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_26
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 180
+        width: 127
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1a63f4dd60f7147ac98cc64de28bde
+      internalID: 502792078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_27
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 180
+        width: 171
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57998ca8b91267b4897fb1de2779ba6c
+      internalID: 1838036032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_28
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 174
+        width: 140
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dae9aa30da1f14baeb880d99c6a93c
+      internalID: 1370393637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 210
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62941397978b37142944427906e0bf36
+      internalID: 1834579333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_30
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 174
+        width: 132
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a83f33470393604488d62ce78208d89
+      internalID: 79938716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_31
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 186
+        width: 106
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522452eb450f3234296e9fa73602a289
+      internalID: 1963757476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 18
+        width: 76
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60a73159e6eace4ebf1538067ed0d40
+      internalID: -98348001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_33
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 18
+        width: 74
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd2aa001169a64482cd9ffc5498e75
+      internalID: 1717966906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 18
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fad3e4a9fc14414d826cbb1dcedfc8d
+      internalID: -1717899347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 10
+        width: 85
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b1e00820ae48d4cb765426a0a67413
+      internalID: -2142375526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_36
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 16
+        width: 132
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4759ce1e55827e04c94cf9f6b8839e3f
+      internalID: 548382310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_37
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 15
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeef6f06b0032c49bb6b54a245a6d3a
+      internalID: -1911337862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_38
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 16
+        width: 79
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4f7061032140d4487f2cfb4cdcbc44
+      internalID: 1196499609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_39
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 16
+        width: 151
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3eade1fcd98cea47962ab7a9159b73f
+      internalID: -1155830211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3dd046225bb04ebd5508d214ca058
+      internalID: 1959681278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_41
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 18
+        width: 160
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a861f56669295458a48aae971c66ea
+      internalID: -2123536836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_42
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 18
+        width: 155
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c808d34d5bdaa1f459b1e990c042923d
+      internalID: -1242683508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_43
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 18
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ded050220f8544bbdb1c9bdd199fb
+      internalID: -232987809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_44
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c0aa4a6aea3064787ba85d419a82a5
+      internalID: 571788379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_0: 660948058
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_1: -1973599442
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_10: -470341604
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_11: -2107686028
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_12: 1146762667
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_13: 655901870
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_14: 852946001
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_15: 287540195
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_16: 1582584851
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_17: 144625553
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_18: -1251319461
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_19: 1988737112
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_2: 754525053
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_20: -108244194
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_21: -561634189
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_22: 1695152746
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_23: 1709356646
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_24: -96080289
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_25: 172970133
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_26: 502792078
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_27: 1838036032
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_28: 1370393637
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_29: 1834579333
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_3: -1779003338
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_30: 79938716
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_31: 1963757476
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_32: -98348001
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_33: 1717966906
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_34: -1717899347
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_35: -2142375526
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_36: 548382310
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_37: -1911337862
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_38: 1196499609
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_39: -1155830211
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_4: -188729310
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_40: 1959681278
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_41: -2123536836
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_42: -1242683508
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_43: -232987809
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_44: 571788379
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_5: 683888808
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_6: -2063052694
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_7: 1247195555
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_8: 1038433370
+      mvyy_nqci_141101-PhotoRoom.png-PhotoRoom_9: -541259064
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

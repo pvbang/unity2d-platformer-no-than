@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 4fc41432150af4c49a1fea510f1a481e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 971
+        width: 492
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0f6f1294675b1438b5188112feeb10
+      internalID: -1864552684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_1
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 972
+        width: 388
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6467ecdc0c1f441b87f2194a34468a
+      internalID: -1932148621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_2
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 637
+        width: 192
+        height: 608
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c8dcdd9495c34b9eec4845065b186
+      internalID: 337891055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_3
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 654
+        width: 128
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcec77ba8f83d1429e6a163744ecb6c
+      internalID: -1984374834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 636
+        width: 382
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ab65df4531f849b38d06a432b3afb
+      internalID: 1906397255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 768
+        width: 231
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e8dc082f01ea1438f79dbd0752759b
+      internalID: 1409940663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 780
+        width: 379
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f0b250c186a84a8113965021bb3cd
+      internalID: -771277740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 631
+        width: 492
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28c489b9387d6458f39dea8cffe4b6
+      internalID: 1177580547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_8
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 407
+        width: 358
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d48889231803144bd3d8f6f587f350
+      internalID: 1038485557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_9
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 562
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae5ee19779b69d4489368b179b50c61
+      internalID: -326573477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_10
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 558
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c16c872acba2e4c95ed7df54a9a3f5
+      internalID: -1795807951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 384
+        width: 699
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5ba484acc8815409783d76aa2ab745
+      internalID: -1431976242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_12
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 491
+        width: 125
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cff952f0660714cb2a0ebd90718a5d
+      internalID: -1585715589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_13
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 408
+        width: 125
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73748e3ef664d54eb5b788410c9a89a
+      internalID: 1800880256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_14
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 174
+        width: 567
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5f28b23bdbf304c9d72a06a39305f4
+      internalID: -450789869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 192
+        width: 659
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961efd995dd8c7e42aaecaeee52743b6
+      internalID: 1073240420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 626
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ebb5c99c7de934f857677c40c1ad60
+      internalID: -2102027463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: naix_cjfg_180712-PhotoRoom.png-PhotoRoom_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 21
+        width: 609
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453394ee2bd0d04aac7b023a75ad08d
+      internalID: 1422820733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_0: -1864552684
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_1: -1932148621
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_10: -1795807951
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_11: -1431976242
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_12: -1585715589
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_13: 1800880256
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_14: -450789869
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_15: 1073240420
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_16: -2102027463
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_17: 1422820733
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_2: 337891055
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_3: -1984374834
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_4: 1906397255
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_5: 1409940663
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_6: -771277740
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_7: 1177580547
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_8: 1038485557
+      naix_cjfg_180712-PhotoRoom.png-PhotoRoom_9: -326573477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

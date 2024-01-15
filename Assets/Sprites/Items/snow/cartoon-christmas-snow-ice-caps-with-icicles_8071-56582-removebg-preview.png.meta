@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: c85aabdb9ea6a04479fa0c26ef1e8131
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 360
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aed7842d6d5874a8a8a35d4012957b
+      internalID: 1644914171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 306
+        width: 264
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548c2a84665844c4ca84e90e35113109
+      internalID: -1310259720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 280
+        width: 98
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ab3e7f796aa3f408f70ee49a7d865d
+      internalID: -1407525922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 306
+        width: 240
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f65be92209ac14db02efaaa519532d
+      internalID: 428956516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 234
+        width: 118
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b399287ec8215af4d80e7815a9b2d731
+      internalID: -851595768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 233
+        width: 107
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7719c85b8b7434289d87621690e543
+      internalID: 1793597334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 181
+        width: 98
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30227e5ba04f15f40a3bb7de0f0c9595
+      internalID: -916159835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 230
+        width: 159
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8952d42c8f6d8f046962fe0d8efc63d1
+      internalID: -1052963530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 228
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cea324b6b2186448d28d5d64fc1a45
+      internalID: 1210428936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 246
+        width: 67
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a287523fefc772142a532c610b8a290d
+      internalID: 1544727430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 192
+        width: 84
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87970a7d1f3f1d74b91764775b9b9cdd
+      internalID: 1695759043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 209
+        width: 135
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2990a10fbf6634986ecd4c40ad379b
+      internalID: 1563093414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 172
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f32bf9b2b4e5048b0d5b3d1712911a
+      internalID: 1586457489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 162
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7840de4c5d6ba2442bcf7b6718a0c0b0
+      internalID: 1335723317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 178
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b267bdf4ea60c44bffd30cebf38d0d
+      internalID: -550362954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 192
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fe546bd5a5dc74db1fdfaaa88c1df6
+      internalID: 583939515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 192
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107df805ea18e944d9471eea94d33dd1
+      internalID: -1184687013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 126
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2abdd91d534240985d40abeb724a4
+      internalID: 1014269324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 193
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda4eafa69f27d45b21ac63873a9daf
+      internalID: 729666460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 83
+        width: 84
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534f8a9f228222d4ab5ee6f50ef58d62
+      internalID: 531305481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 129
+        width: 162
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bfefc612a7e3e4aad58973a5b1b7c2
+      internalID: -1832697175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 139
+        width: 65
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae245db31c7e9c3468848367741b0638
+      internalID: -1933382390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 161
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469dd65f06e517747bd272eb8d76ecba
+      internalID: 878396271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 147
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390ae9385708be14a9321110b4895eef
+      internalID: -1603752117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 144
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bbb0253dc03a5459633da57f04b2fb
+      internalID: -342262411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 76
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17de3df9297734e4c9adc2a9ba544eab
+      internalID: 828143320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 131
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440b997dfa9f4d54d9286b03a4f1c84d
+      internalID: 1549459280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 114
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a6a5cae438994b882fb7bbc6d256f
+      internalID: -230059331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 101
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4174b15d2d735741bcf99c45a25104a
+      internalID: -1725945521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 25
+        width: 122
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d226277ccb33a4681e6b4870a38dac
+      internalID: -780389335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 78
+        width: 126
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42244d79e27b07d40bd611cf6db0cc8f
+      internalID: 221406412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 52
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6265fc9ec63f4504497d2981e56e09f2
+      internalID: 1031593704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 72
+        width: 77
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda4398afe3cf8b4d8e7f0dc36b775a0
+      internalID: 1313355002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 54
+        width: 104
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7de4222be3829247a5b31dd28bb8696
+      internalID: -625628341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 18
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7716bbf91fe19c4b8d6f5762184e3d6
+      internalID: 1591348746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 12
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d163ad675eea47a29d4cf2dfef639
+      internalID: 43640477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 57
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e21c0bae33c94a90dd430ee2243a1
+      internalID: -2142592835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 18
+        width: 122
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055ea77039bc17547ad3440eaf1b35f0
+      internalID: 683047802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 12
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c9381e86498b429e554c2d49da86e
+      internalID: 1088697142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 22
+        width: 73
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385346735d019b5459c9af119ab96144
+      internalID: 1910335354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_0: 1644914171
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_1: -1310259720
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_10: 1695759043
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_11: 1563093414
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_12: 1586457489
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_13: 1335723317
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_14: -550362954
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_15: 583939515
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_16: -1184687013
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_17: 1014269324
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_18: 729666460
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_19: 531305481
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_2: -1407525922
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_20: -1832697175
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_21: -1933382390
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_22: 878396271
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_23: -1603752117
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_24: -342262411
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_25: 828143320
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_26: 1549459280
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_27: -230059331
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_28: -1725945521
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_29: -780389335
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_3: 428956516
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_30: 221406412
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_31: 1031593704
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_32: 1313355002
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_33: -625628341
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_34: 1591348746
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_35: 43640477
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_36: -2142592835
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_37: 683047802
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_38: 1088697142
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_39: 1910335354
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_4: -851595768
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_5: 1793597334
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_6: -916159835
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_7: -1052963530
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_8: 1210428936
+      cartoon-christmas-snow-ice-caps-with-icicles_8071-56582-removebg-preview_9: 1544727430
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
